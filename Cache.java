@@ -1,4 +1,3 @@
-
 public class Cache{
     private final Storage Storage;
     private final AvictionPolicy policy;

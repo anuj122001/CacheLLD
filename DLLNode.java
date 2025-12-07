@@ -1,4 +1,4 @@
-class DLLNode{
+public class DLLNode{
     public String key;
     public DLLNode prev;
     public DLLNode next;

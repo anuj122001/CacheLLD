@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-class LRUCache implements AvictionPolicy {
+public class LRUCache implements AvictionPolicy {
     private DLL dll;
     private HashMap<String, DLLNode> map;
     public LRUCache() {
